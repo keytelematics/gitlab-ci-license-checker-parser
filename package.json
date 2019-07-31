@@ -1,0 +1,25 @@
+{
+  "name": "gitlab-ci-license-checker-parser",
+  "version": "1.0.0",
+  "description": "License checker parser for GitLab license management",
+  "bin": "parse.js",
+  "main": "parse.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:keytelematics/gitlab-ci-license-checker-parser.git"
+  },
+  "keywords": [
+    "gitlab"
+  ],
+  "author": "Maxime Gibeau, Russell van der Walt",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.18.0"
+  }
+}

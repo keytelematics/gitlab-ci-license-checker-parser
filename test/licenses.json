@@ -1,0 +1,17 @@
+{
+    "commander@2.18.0": {
+      "licenses": "MIT",
+      "repository": "https://github.com/tj/commander.js",
+      "publisher": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca",
+      "path": "/home/russell/src/gitlab-ci-license-checker-parser/node_modules/commander",
+      "licenseFile": "/home/russell/src/gitlab-ci-license-checker-parser/node_modules/commander/LICENSE"
+    },
+    "@some-org/gitlab-ci-license-checker-parser@1.0.0": {
+      "licenses": "MIT",
+      "repository": "https://github.com/keytelematics/gitlab-ci-license-checker-parser",
+      "publisher": "Maxime Gibeau, Russell van der Walt",
+      "path": "/home/russell/src/gitlab-ci-license-checker-parser",
+      "licenseFile": "/home/russell/src/gitlab-ci-license-checker-parser/README.md"
+    }
+  }
