@@ -13,5 +13,12 @@
       "publisher": "Maxime Gibeau, Russell van der Walt",
       "path": "/home/russell/src/gitlab-ci-license-checker-parser",
       "licenseFile": "/home/russell/src/gitlab-ci-license-checker-parser/README.md"
-    }
+    },
+    "test@1.0.0": {
+      "licenses": ["MIT", "BSD"],
+      "repository": "https://github.com/keytelematics/test",
+      "publisher": "Max",
+      "path": "/home/russell/src/gitlab-ci-license-checker-parser",
+      "licenseFile": "/home/russell/src/gitlab-ci-license-checker-parser/README.md"
+    }    
   }
